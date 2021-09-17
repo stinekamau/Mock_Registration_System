@@ -1,0 +1,202 @@
+id,name,weight,category,students
+ACG397,Accounting,3,Theory,0
+ACG267,BAS Bus Organizational Leaders,3,Theory,0
+AFA604,Social Science,3,Theory,0
+AMH250,History,3,Theory,0
+AML777,English,3,Theory,0
+ANT342,Anthropology,3,Theory,0
+AOM412,Horticulture Technology,3,Theory,0
+APA198,Accounting,3,Theory,0
+ARA674,Arabic,3,Theory,0
+ARC775,Architecture,3,Theory,0
+ARE644,Education,1,Lab,0
+ARH461,Art,3,Theory,0
+ART651,Art,3,Theory,0
+ASL746,Sign Language,3,Theory,0
+AST167,Astronomy,3,Theory,0
+BCN588,Construction & Civil Eng Tech,3,Theory,0
+BCT401,Construction & Civil Eng Tech,3,Theory,0
+BOT618,Biology,3,Theory,0
+BOT641,Horticulture Technology,3,Theory,0
+BSC439,Biology,3,Theory,0
+BUL926,Business Admin & Management,1,Lab,0
+CCJ559,Criminal Justice Technology,3,Theory,0
+CEN906,BAS Computing Tech Software Dv,3,Theory,0
+CET530,Electrical&Comp Eng Tech,3,Theory,0
+CET140,Electronics Engin Technology,3,Theory,0
+CET359,Network Engineering Technology,3,Theory,0
+CGS262,"CIT, Cmp Prg & Anly, & DB Tech",3,Theory,0
+CHM282,Chemistry,3,Theory,0
+CIS913,"CIT, Cmp Prg & Anly, & DB Tech",3,Theory,0
+CJC744,Criminal Justice Technology,1,Lab,0
+CJE756,Criminal Justice Technology,3,Theory,0
+CJJ682,Criminal Justice Technology,3,Theory,0
+CJL213,Criminal Justice Technology,3,Theory,0
+CLP743,Psychology,3,Theory,0
+CNT646,Network Engineering Technology,3,Theory,0
+COM443,English,3,Theory,0
+COP774,BAS Computing Tech Software Dv,3,Theory,0
+COP129,"CIT, Cmp Prg & Anly, & DB Tech",3,Theory,0
+COP598,Electrical&Comp Eng Tech,3,Theory,0
+COT566,"CIT, Cmp Prg & Anly, & DB Tech",3,Theory,0
+CRW111,English,3,Theory,0
+CTS870,"CIT, Cmp Prg & Anly, & DB Tech",3,Theory,0
+CTS393,Network Engineering Technology,3,Theory,0
+CVT619,Cardiovascular Technology,3,Theory,0
+DAA382,Dance,3,Theory,0
+DEH634,Dental Hygiene,3,Theory,0
+DEP658,Psychology,3,Theory,0
+DES224,Dental Hygiene,1,Lab,0
+DIG285,Digital Media Technology,1,Lab,0
+DSC225,Criminal Justice Technology,3,Theory,0
+EAP985,English for Academic Purposes,3,Theory,0
+ECO410,Economics,3,Theory,0
+EDF448,Education,3,Theory,0
+EDG119,Education,3,Theory,0
+EDP784,Psychology,3,Theory,0
+EEC811,Education,3,Theory,0
+EET927,Electrical&Comp Eng Tech,3,Theory,0
+EET518,Electronics Engin Technology,1,Lab,0
+EET165,Engineering Technology,3,Theory,0
+EEX912,Education,1,Lab,0
+EGN464,Electrical&Comp Eng Tech,3,Theory,0
+EGN864,Engineering,3,Theory,0
+EGS276,Engineering,3,Theory,0
+EME263,Education,3,Theory,0
+EMS341,Emergency Medical Services,3,Theory,0
+ENC293,English,3,Theory,0
+ENG212,English,3,Theory,0
+ENL529,English,3,Theory,0
+ENY865,Horticulture Technology,1,Lab,0
+EPI214,Education,3,Theory,0
+ESC671,Geology,1,Lab,0
+ETC264,Construction & Civil Eng Tech,3,Theory,0
+ETD677,Drafting and Design Technology,3,Theory,0
+ETI160,BAS Computing Tech Software Dv,3,Theory,0
+ETI524,Electrical&Comp Eng Tech,3,Theory,0
+ETI112,Engineering Technology,1,Lab,0
+ETM431,Energy Mgmt and Controls Tech,3,Theory,0
+ETM211,Engineering Technology,1,Lab,0
+ETP473,Electrical&Comp Eng Tech,3,Theory,0
+ETS133,Electrical&Comp Eng Tech,3,Theory,0
+ETS203,Electronics Engin Technology,3,Theory,0
+EUH592,History,3,Theory,0
+EVR157,Biology,1,Lab,0
+EVS578,Environmental Science Tech,3,Theory,0
+FAS967,Horticulture Technology,3,Theory,0
+FFP168,Fire Science Technology,3,Theory,0
+FIL251,Film,3,Theory,0
+FIN741,BAS Bus Organizational Leaders,3,Theory,0
+FIN118,Finance,1,Lab,0
+FOS519,"Hos/Tour,Bak/Pstry,Cul/Rest Mg",3,Theory,0
+FRE252,French,3,Theory,0
+FSS291,"Hos/Tour,Bak/Pstry,Cul/Rest Mg",3,Theory,0
+GEA683,Geography,3,Theory,0
+GEB525,BAS Bus Organizational Leaders,3,Theory,0
+GEB890,Business Admin & Management,1,Lab,0
+GER898,German,3,Theory,0
+GLY671,Geology,1,Lab,0
+GRA424,Graphics Technology,1,Lab,0
+HFT972,"Hos/Tour,Bak/Pstry,Cul/Rest Mg",3,Theory,0
+HIM951,Health Information Technology,3,Theory,0
+HIS682,History,3,Theory,0
+HLP340,"Health, Health & Fitness, & PE",3,Theory,0
+HOS323,Horticulture Technology,3,Theory,0
+HSA784,Health Information Technology,3,Theory,0
+HSA614,Radiography,3,Theory,0
+HSC607,Health Information Technology,3,Theory,0
+HSC648,"Health, Health & Fitness, & PE",3,Theory,0
+HSC189,Health-Related,3,Theory,0
+HSC579,Radiography,3,Theory,0
+HSC669,Respiratory Care,3,Theory,0
+HUM923,Humanities,3,Theory,0
+HUN326,"Hos/Tour,Bak/Pstry,Cul/Rest Mg",3,Theory,0
+HUN802,Nutrition,3,Theory,0
+IDH145,Interdisciplinary Studies,1,Lab,0
+INP518,Psychology,1,Lab,0
+INR255,Political Science,3,Theory,0
+INT240,Sign Language,1,Lab,0
+IPM550,Horticulture Technology,3,Theory,0
+ISS524,Social Science,3,Theory,0
+JOU339,Journalism,3,Theory,0
+JPN916,Japanese,3,Theory,0
+LAT932,Latin,1,Lab,0
+LDE513,Horticulture Technology,1,Lab,0
+LIS721,Library Science,3,Theory,0
+LIT616,English,1,Lab,0
+MAC556,Mathematics,3,Theory,0
+MAN409,BAS Bus Organizational Leaders,3,Theory,0
+MAN263,Business Admin & Management,3,Theory,0
+MAP624,Mathematics,3,Theory,0
+MAR645,BAS Bus Organizational Leaders,3,Theory,0
+MAR193,Business Admin & Management,1,Lab,0
+MAT327,Mathematics,3,Theory,0
+MCB862,Biology,3,Theory,0
+MET640,Meteorology,3,Theory,0
+MGF717,Mathematics,3,Theory,0
+MKA371,Business Admin & Management,3,Theory,0
+MMC358,Mass Communication,3,Theory,0
+MNA926,Business Admin & Management,3,Theory,0
+MSL922,Military Science,3,Theory,0
+MTB198,Business Admin & Management,3,Theory,0
+MTB391,Drafting and Design Technology,3,Theory,0
+MTB926,Electronics Engin Technology,3,Theory,0
+MUC318,Music,3,Theory,0
+MUE467,Education,3,Theory,0
+MUL161,Music,3,Theory,0
+MUM884,Music,1,Lab,0
+MUN578,Music,1,Lab,0
+MUO248,Music,1,Lab,0
+MUS497,Music,1,Lab,0
+MUT619,Music,3,Theory,0
+MVB862,Music,1,Lab,0
+MVK503,Music,1,Lab,0
+MVP497,Music,3,Theory,0
+MVS258,Music,1,Lab,0
+MVV892,Music,3,Theory,0
+MVW864,Music,3,Theory,0
+NUR913,BS Nursing,3,Theory,0
+NUR939,Nursing,3,Theory,0
+OCB987,Biology,3,Theory,0
+OCE406,Oceanography,1,Lab,0
+ORH297,Horticulture Technology,3,Theory,0
+OST154,Office and Medical Admin,3,Theory,0
+PAX571,Peace Studies,3,Theory,0
+PEL676,"Health, Health & Fitness, & PE",3,Theory,0
+PEM461,"Health, Health & Fitness, & PE",3,Theory,0
+PEN137,"Health, Health & Fitness, & PE",3,Theory,0
+PET845,"Health, Health & Fitness, & PE",3,Theory,0
+PGY874,Photography,1,Lab,0
+PHI752,Logic,3,Theory,0
+PHI839,Philosophy,3,Theory,0
+PHY491,Physics,3,Theory,0
+PLA637,Paralegal Studies,3,Theory,0
+PLP503,Horticulture Technology,3,Theory,0
+PLS900,Horticulture Technology,3,Theory,0
+POR689,Portuguese,3,Theory,0
+POS397,Political Science,3,Theory,0
+PSY866,Psychology,3,Theory,0
+PUR660,Journalism,3,Theory,0
+REE115,Real Estate,1,Lab,0
+REE461,Residential Property Mngmt,1,Lab,0
+REL348,Religion,3,Theory,0
+RET914,Respiratory Care,1,Lab,0
+RTE386,Radiography,3,Theory,0
+SBM514,Business Admin & Management,3,Theory,0
+SLS522,Career Development,3,Theory,0
+SLS719,Student Life Skills,3,Theory,0
+SON968,Sonography,1,Lab,0
+SOP372,Psychology,1,Lab,0
+SPC190,Speech,3,Theory,0
+SPN806,Spanish,3,Theory,0
+STA437,Mathematics,3,Theory,0
+SUR516,Construction & Civil Eng Tech,3,Theory,0
+SWS122,Horticulture Technology,3,Theory,0
+SYG493,Sociology,3,Theory,0
+TAR470,Construction & Civil Eng Tech,3,Theory,0
+TAX418,Accounting,1,Lab,0
+THE490,Theater and Entertainment,3,Theory,0
+TPA712,Theater and Entertainment,1,Lab,0
+TPP533,Theater and Entertainment,3,Theory,0
+VEC245,Horticulture Technology,3,Theory,0
+WOH413,History,1,Lab,0
