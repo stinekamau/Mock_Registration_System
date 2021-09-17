@@ -1,4 +1,4 @@
-# Universtiy Registration System
+# Universitiy Registration System
 
 **To perform the name, email and contanct validation press tab  when moving between the input fields**
 
